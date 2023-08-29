@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    text-align: center;
+    margin: 50px;
+}
+
+input{
+    border: none;
+    background-color: rgba(63, 106, 122, 0.555);
+    width: 120px;
+    margin: 25px;
+    height: 25px;
+    font-size: 20px;
+}
+
+button{
+    width: 30vw;
+    height: 5vh;
+    font-size: 20px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: grey;
+    color: white;
+}
+
+h3{
+    font-size: 25px;
+    margin: 10px;
+    text-decoration: underline;
+}
+
+body{
+    background-image: url(calc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100vw;
+    background-size: 100vh;
+}
