@@ -38,7 +38,5 @@ h3{
 }
 
 body{
-    background-image: rgba(255,0,255);
-    background-repeat: no-repeat;
-    background-size: contain;
+    background: rgba(255,0,255);
 }
