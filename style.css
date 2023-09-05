@@ -40,5 +40,5 @@ h3{
 body{
     background-image: url(calc.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
